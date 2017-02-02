@@ -1,0 +1,22 @@
+{
+  "name": "mep-utilities.uppercase",
+  "version": "1.0.0",
+  "description": "Uppercase Utility",
+  "main": "stylesheets/_utility-uppercase.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "name": "utility-uppercase",
+    "exports": "eyeglass-exports.js"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/utilities.uppercase.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
