@@ -1,15 +1,9 @@
 {
   "name": "mep-utilities.uppercase",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Uppercase Utility",
   "main": "stylesheets/_utility-uppercase.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "utility-uppercase",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
